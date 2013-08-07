@@ -4,25 +4,25 @@ Welcome to the nerdboat ticket grant project
 [![Artemis](http://fholzhauer.de/wp-content/blogs.dir/10/files/2013/04/artemis_4-500x335.jpg)](http://www.tallship-artemis.com/home-en/)
 
 
-Nerdboat is a weekend of 30 developers, designers, web hackers and tinkerers on a boat in Germany. No internet, no fixed schedule - just talks, sailing, wind, food and great people. ([More details about Nerdboat](https://tito.io/nerdboat/nerdboat-2013))
+Nerdboat is a weekend with 30 developers, designers, web hackers and tinkerers on a boat in Germany. No internet, no fixed schedule - just talks, sailing, wind, food and great people. ([More details about Nerdboat](https://tito.io/nerdboat/nerdboat-2013))
 
-However, since the boat has quite a big price tag and there are no sponsors, the tickets are far from being cheap. On the other hand, there are a lot of awesome, passionate and talented people out there which dont have 750 Euros spare for a weekend. This sucks, since the weekend will be better the more interesting people gather aboard. 
+However, since the boat comes with quite a hefty price tag and there are no sponsors on board, the tickets are not cheap. That said, excluding awesome, passionate and talented people just because they currently cannot afford a ticket hurts! The more of them, the merrier!
 
-So here is the deal: I will give out one ticket for free for the person which provides the best reason why she/he should get it.
+Here is my deal: I will give away one full ticket for free! It is as easy as this: The person with the best reason why she/he should come aboard gets it.
 
 How to participate:
 ---
 
-* To apply for the ticket grant, file a new [issue](https://github.com/nerdboat/tickets/issues) here at github. Please write some text why you want to be on the boat.
-* __Voting__: The issue with the most participants gets the ticket. So ask your friends to raise this number by commenting on the ticket. 
-* Deadline is August, 30th, 2013.
+* To apply for the ticket grant, file a new [issue](https://github.com/nerdboat/tickets/issues) here on GitHub and provide some compelling arguments why you should be part of nerdboat.
+* __Voting__: The issue with the most participants gets the ticket. So ask your friends to vote for you by commenting just anything they want on your issue.
+* Deadline is 30th of August 2013.
 
 
 FAQ/Rules:
 ---
-* Spamming sucks. While it is perfectly fine to ask on twitter or somewhere else to participate on the issue, please use only socially accepted communication methods. Don't annoy other people, and be excellent to each other. Otherwise: See next paragraph.
-* I reserve the right to exclude participants from the application for highly subjective and not explained reasons. :)
-* The nerdboat ticket grant project does only cover the ticket itself. Transport to/from Hamburg has to be paid for by everyone itself.
+* Spamming sucks. While it is perfectly fine to ask on Twitter or anywhere else to participate on the issue, please use only socially accepted communication methods. Do not annoy other people, and be excellent to each other. Otherwise: See next paragraph.
+* I reserve the right to exclude participants from the application at will.
+* The nerdboat ticket grant project does only cover the ticket itself and does not include transportation to/from Hamburg. This has to be paid by the grantee.
 * You might want to register your interest at [tito.io](https://tito.io/nerdboat/nerdboat-2013) to get the newsletter for the boat.
 
 Contact
