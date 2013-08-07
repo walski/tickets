@@ -15,7 +15,7 @@ How to participate:
 
 * To apply for the ticket grant, file a new [issue](https://github.com/nerdboat/tickets/issues) here at github. Please write some text why you want to be on the boat.
 * __Voting__: The issue with the most participants gets the ticket. So ask your friends to raise this number by commenting on the ticket. 
-* Deadline is August, 28th, 2013.
+* Deadline is August, 30th, 2013.
 
 
 FAQ/Rules:
