@@ -8,7 +8,7 @@ Nerdboat is a weekend of 30 developers, designers, web hackers and tinkerers on 
 
 However, since the boat has quite a big price tag and there are no sponsors, the tickets are far from being cheap. On the other hand, there are a lot of awesome, passionate and talented people out there which dont have 750 Euros spare for a weekend. This sucks, since the weekend will be better the more interesting people gather aboard. 
 
-So here is the deal: I will give out one ticket for free, for the person which provides the best reason why she/he should get it.
+So here is the deal: I will give out one ticket for free for the person which provides the best reason why she/he should get it.
 
 How to participate:
 ---
