@@ -4,7 +4,7 @@ Welcome to the nerdboat ticket grant project
 [![Artemis](http://fholzhauer.de/wp-content/blogs.dir/10/files/2013/04/artemis_4-500x335.jpg)](http://www.tallship-artemis.com/home-en/)
 
 
-Nerdboat is a weekend with 30 developers, designers, web hackers and tinkerers on a boat in Germany. No internet, no fixed schedule - just talks, sailing, wind, food and great people. ([More details about Nerdboat](https://tito.io/nerdboat/nerdboat-2013))
+Nerdboat is a weekend on a boat together with 30 developers, designers, web hackers and tinkerers in Germany. No internet, no fixed schedule - just talks, sailing, wind, food and great people. ([More details about Nerdboat](https://tito.io/nerdboat/nerdboat-2013))
 
 However, since the boat comes with quite a hefty price tag and there are no sponsors on board, the tickets are not cheap. That said, excluding awesome, passionate and talented people just because they currently cannot afford a ticket hurts! The more of them, the merrier!
 
